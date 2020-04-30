@@ -62,7 +62,7 @@ function add_safe(a, b) {
 ```
 
 ## Benchmark
-82799 nanoseconds
+84800 nanoseconds
 ## Tests
 Uses *Jest* to test module functionality. Run tests to get coverage details.
 
